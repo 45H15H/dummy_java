@@ -8,6 +8,7 @@ class TrainingAdminstratorPortalApplicationTests {
 
 	@Test
 	void contextLoads() {
+		//
 	}
 
 }
